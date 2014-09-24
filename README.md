@@ -13,8 +13,8 @@ npm install unicode-escape
 ### Usage
 
 ```js
-var unicodeToJsEscape = require('unicode-escape');
+var unicodeEscape = require('unicode-escape');
 
-unicodeToJsEscape('pasta');
+unicodeEscape('pasta');
 // > \u0070\u0061\u0073\u0074\u0061
 ```
