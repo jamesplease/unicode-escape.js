@@ -1,0 +1,27 @@
+{
+  "name": "unicode-escape",
+  "version": "0.1.0",
+  "description": "Convert a unicode string to a string of Javascript escape sequences.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmeas/unicode-string-to-javascript-escape.js.git"
+  },
+  "keywords": [
+    "unicode",
+    "javascript",
+    "escaped",
+    "convert",
+    "conversion",
+    "converter"
+  ],
+  "author": "Jmeas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmeas/unicode-string-to-javascript-escape.js/issues"
+  },
+  "homepage": "https://github.com/jmeas/unicode-string-to-javascript-escape.js"
+}
